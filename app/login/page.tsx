@@ -18,19 +18,19 @@ export default function LoginPage() {
             <p className="text-sm text-muted-foreground text-center mb-3">Demo Credentials:</p>
             <div className="space-y-2 text-xs text-muted-foreground">
               <div>
-                <strong>Admin:</strong> admin@kmrms.pk
+                <strong>Admin:</strong> admin@healthcare.pk
               </div>
               <div>
-                <strong>Doctor:</strong> doctor@kmrms.pk
+                <strong>Doctor:</strong> doctor@healthcare.pk
               </div>
               <div>
-                <strong>Patient:</strong> patient@kmrms.pk
+                <strong>Patient:</strong> patient@healthcare.pk
               </div>
               <div>
-                <strong>Lab Tech:</strong> lab@kmrms.pk
+                <strong>Lab Tech:</strong> lab@healthcare.pk
               </div>
               <div>
-                <strong>Government:</strong> govt@kmrms.pk
+                <strong>Government:</strong> govt@healthcare.pk
               </div>
               <div className="text-xs pt-2">
                 <strong>Password (all):</strong> password123
