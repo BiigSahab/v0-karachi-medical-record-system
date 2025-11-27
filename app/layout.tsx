@@ -9,7 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "KMRMS - Karachi Medical Record Management System",
-  description: "Professional medical record management system for healthcare in Karachi",
+  description: "Professional healthcare management system serving Karachi with Pakistan's digital healthcare vision",
   generator: "v0.app",
 }
 
