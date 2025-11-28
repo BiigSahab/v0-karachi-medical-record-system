@@ -3,7 +3,7 @@
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ammars-projects-71018f59/v0-karachi-medical-record-system)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/rRWrTL4QrPJ)
+
 
 ## Overview
 
@@ -15,12 +15,6 @@ Any changes you make to your deployed app will be automatically pushed to this r
 Your project is live at:
 
 **[https://vercel.com/ammars-projects-71018f59/v0-karachi-medical-record-system](https://vercel.com/ammars-projects-71018f59/v0-karachi-medical-record-system)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/rRWrTL4QrPJ](https://v0.app/chat/rRWrTL4QrPJ)**
 
 ## How It Works
 
